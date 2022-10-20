@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0eb7aa535131e384a82cc414745dcdb2, type: 3}
+  m_Name: Dog
+  m_EditorClassIdentifier: 
+  skeletonDataAsset: {fileID: 11400000, guid: 9d736ebde42d4844ebebdabea9e403c1, type: 2}
+  skin: default
+  animalIcon: {fileID: 21300000, guid: a8f5064be8028a54aafc3dc7f53b2115, type: 3}
+  sounds: {fileID: 11400000, guid: ccc4505e76ea1184dbffe27c90d56a9f, type: 2}
+  animations:
+    idleAnimation: {fileID: 11400000, guid: 268ee961d4f0b794c80c9cc8e422227d, type: 2}
+    wrongTailAnimation: {fileID: 11400000, guid: cea700beb9d0cb04b9aeef0d2b96ffd8, type: 2}
+    tapAnimation: {fileID: 11400000, guid: 1fbb5a545a6f0c046931cba0bfe61b57, type: 2}
+    sadAnimation: {fileID: 11400000, guid: 650c458fab7006a4c9c140799cce2506, type: 2}
+    rightTailAnimation: {fileID: 11400000, guid: 681e5471297182a418202f5e077082ba, type: 2}
+  tailData: {fileID: 11400000, guid: cfc8f3ff69531f040afc3782cba46bed, type: 2}
+  tailName: Tail line
+  tailBone: bone7

@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca8eb320088d401b9d76a0aae06c4f81, type: 3}
+  m_Name: MouseTail
+  m_EditorClassIdentifier: 
+  atlas: {fileID: 4343727234628468602, guid: 6a212186c81c12c40a30a4066773426b, type: 2}
+  tailIcon: {fileID: 21300000, guid: 001f1536982322c45817a64959b462f2, type: 3}
+  tailSpriteSlot: {fileID: -5890888257780047973, guid: dc26904ab510cda439e14c3f3b409f67, type: 3}

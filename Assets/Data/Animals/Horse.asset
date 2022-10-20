@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0eb7aa535131e384a82cc414745dcdb2, type: 3}
+  m_Name: Horse
+  m_EditorClassIdentifier: 
+  skeletonDataAsset: {fileID: 11400000, guid: d30c13ebef7033c4baac6388e00a98bb, type: 2}
+  skin: default
+  animalIcon: {fileID: 21300000, guid: 75c076e3a7f3e2347a6c7b2e9e9b0870, type: 3}
+  sounds: {fileID: 11400000, guid: 154a7566847f1964393457cfd1fae4b7, type: 2}
+  animations:
+    idleAnimation: {fileID: 11400000, guid: ef2cd18ab79c2ac4cb5f9987fb919679, type: 2}
+    wrongTailAnimation: {fileID: 11400000, guid: 1645f5c7c690caf44909a8e94015dfe7, type: 2}
+    tapAnimation: {fileID: 11400000, guid: 6543f5edc864c4940927e50afac9cd94, type: 2}
+    sadAnimation: {fileID: 11400000, guid: ed7ac7972fecd31499dd1feedd4ce5dd, type: 2}
+    rightTailAnimation: {fileID: 11400000, guid: ef730254bb1d737479dc7a671e357c21, type: 2}
+  tailData: {fileID: 11400000, guid: 38bb7432922d27f4083e787afdedac8a, type: 2}
+  tailName: pic/Tail
+  tailBone: bone29

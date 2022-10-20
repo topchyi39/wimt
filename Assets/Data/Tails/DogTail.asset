@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca8eb320088d401b9d76a0aae06c4f81, type: 3}
+  m_Name: DogTail
+  m_EditorClassIdentifier: 
+  atlas: {fileID: 4343727234628468602, guid: 6a212186c81c12c40a30a4066773426b, type: 2}
+  tailIcon: {fileID: 21300000, guid: 1cba25427bc544443910c59688a6dfd0, type: 3}
+  tailSpriteSlot: {fileID: -2514718498510673910, guid: 990eb6f7dbc9eea4b866a598132cdaf1, type: 3}

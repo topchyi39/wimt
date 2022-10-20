@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca8eb320088d401b9d76a0aae06c4f81, type: 3}
+  m_Name: PigTail
+  m_EditorClassIdentifier: 
+  atlas: {fileID: 4343727234628468602, guid: 6a212186c81c12c40a30a4066773426b, type: 2}
+  tailIcon: {fileID: 21300000, guid: 275df2aa9b18ace4ea76b3b2d387675b, type: 3}
+  tailSpriteSlot: {fileID: 2583652894785426278, guid: aa74aa4686301de43857be286a2956f5, type: 3}

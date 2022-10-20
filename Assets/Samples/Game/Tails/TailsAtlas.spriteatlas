@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: TailsAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 1
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 2
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 21300000, guid: 0ef3fefff0e442c4a9832dee108cbdc5, type: 3}
+    - {fileID: 2800000, guid: 001f1536982322c45817a64959b462f2, type: 3}
+    - {fileID: 2800000, guid: 275df2aa9b18ace4ea76b3b2d387675b, type: 3}
+    - {fileID: 2800000, guid: 8d518ac4a49b7204da4742690be2e761, type: 3}
+    - {fileID: 2800000, guid: 1cba25427bc544443910c59688a6dfd0, type: 3}
+    - {fileID: 2800000, guid: 2f8faeef0f441cc4287646da5e3a1ace, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 1cba25427bc544443910c59688a6dfd0, type: 3}
+  - {fileID: 21300000, guid: 8d518ac4a49b7204da4742690be2e761, type: 3}
+  - {fileID: 21300000, guid: 001f1536982322c45817a64959b462f2, type: 3}
+  - {fileID: 21300000, guid: 275df2aa9b18ace4ea76b3b2d387675b, type: 3}
+  - {fileID: 21300000, guid: 2f8faeef0f441cc4287646da5e3a1ace, type: 3}
+  - {fileID: 21300000, guid: 0ef3fefff0e442c4a9832dee108cbdc5, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - dog tail
+  - horse tail
+  - mouse tail
+  - pig tail
+  - cow tail
+  - cat tail
+  m_RenderDataMap: {}
+  m_Tag: TailsAtlas
+  m_IsVariant: 0

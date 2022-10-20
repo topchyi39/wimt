@@ -1,0 +1,1599 @@
+fileFormatVersion: 2
+guid: aa74aa4686301de43857be286a2956f5
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: -0.5
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pig_black/Ear
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 538
+        width: 89
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c968168a76449ae0800000000000000
+      internalID: -1543531280231536190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pig_black/Ear 2
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 878
+        width: 97
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7db735e784679ce10800000000000000
+      internalID: 2218434345185803223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pig_black/Eyebrow
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 231
+        width: 36
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1af1a313b1569510800000000000000
+      internalID: 1555520550873463324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pig_black/Eyebrow 2
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 235
+        width: 41
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d42107f7e6f09920800000000000000
+      internalID: 2995165228343305430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pig_black/Eyelid
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 958
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7d48f6b276a07d80800000000000000
+      internalID: -8254915105343910531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pig_black/Eyelid 2
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 618
+        width: 45
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc91393b300a162f0800000000000000
+      internalID: -981327306031949365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pig_black/Eyes
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 272
+        width: 132
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df1d8abd10d638600800000000000000
+      internalID: 469338640924332541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pig_black/Foot 2
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 345
+        width: 106
+        height: 271
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96073e9bee75da4f0800000000000000
+      internalID: -815899274651668375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pig_black/Hair
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 271
+        width: 128
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d0d6118877401030800000000000000
+      internalID: 3463346696335315156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pig_black/Hand 2
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 2
+        width: 123
+        height: 231
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90f2b19a309d48240800000000000000
+      internalID: 4793194513174310665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pig_black/Head
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 682
+        width: 201
+        height: 201
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e67fdb2f2a9136670800000000000000
+      internalID: 8530690306817783662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pig_black/Layer 1
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 230
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ab3602eb3e951660800000000000000
+      internalID: 7355959546411891624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pig_black/Mouse
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 617
+        width: 68
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce1182d5f40855b80800000000000000
+      internalID: -8406672051063483924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pig_black/Nose
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 230
+        width: 113
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc8405d5218099690800000000000000
+      internalID: -7595030421615654709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pig_black/Pupil 2
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 573
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b70f45c7555bfe00800000000000000
+      internalID: 1079550371146172344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pig_black/Spine
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 246
+        height: 341
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3573bac2735b79b0800000000000000
+      internalID: -5081376002065337025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pig_black/Tail
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 227
+        width: 79
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfb2fa6b4cef2b610800000000000000
+      internalID: 1635649735520889853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pig_pink/Ear
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 878
+        width: 87
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b637dc7d0f77b4f0800000000000000
+      internalID: -813041511811303751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pig_pink/Ear 2
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 811
+        width: 97
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2779cb1000db26a0800000000000000
+      internalID: -6472851340530190546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pig_pink/Eyebrow
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 235
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4727789c7f524e780800000000000000
+      internalID: -8654750837731003788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pig_pink/Eyebrow 2
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 231
+        width: 40
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e660cc2aae52a030800000000000000
+      internalID: 3504467545035925224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pig_pink/Eyelid
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 767
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 801d5878f6a2f0b20800000000000000
+      internalID: 3102745326784991496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pig_pink/Eyelid 2
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 618
+        width: 44
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdd93ac6772ec65e0800000000000000
+      internalID: -1914906738987655717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pig_pink/Foot 2
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 2
+        width: 104
+        height: 268
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08c329028e29bdb30800000000000000
+      internalID: 4313202593813904512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pig_pink/Hair
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 885
+        width: 69
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33b890cd9d45d3ac0800000000000000
+      internalID: -3873846809792509133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pig_pink/Hand 2
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 343
+        width: 122
+        height: 228
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f82a0a78aac84bb70800000000000000
+      internalID: 8913904226520834703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pig_pink/Head
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 341
+        width: 198
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19da6ae7274d35ed0800000000000000
+      internalID: -2426362186006352495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pig_pink/Mouse
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 541
+        width: 58
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ce86875211e081b0800000000000000
+      internalID: -5656273663083245884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pig_pink/Nose
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 844
+        width: 101
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d049b91e219421540800000000000000
+      internalID: 4977120883641127949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pig_pink/Pupil 2
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 573
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e55dac9d55e5c5f0800000000000000
+      internalID: -736930773781883421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pig_pink/Spine
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 345
+        width: 244
+        height: 337
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4df0b3fea98291f70800000000000000
+      internalID: 9158395963138314196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pig_pink/Tail
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 255
+        width: 78
+        height: 83
+      alignment: 9
+      pivot: {x: 0.108062744, y: 0.12509634}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66358987e9afad320800000000000000
+      internalID: 2583652894785426278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pig_spotted/Ear
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 538
+        width: 87
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90abc38f285faa020800000000000000
+      internalID: 2353963698113788425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pig_spotted/Ear 2
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 115
+        width: 95
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd592b4fe6d09ea20800000000000000
+      internalID: 3092017389369464284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pig_spotted/Eyebrow
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 231
+        width: 36
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39a6cc8fd68d7a220800000000000000
+      internalID: 2497202485237410451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pig_spotted/Eyebrow 2
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 235
+        width: 41
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35d3a1c68584bcf50800000000000000
+      internalID: 6902690398483397971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pig_spotted/Eyelid
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 767
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1636e0ca4fd661e60800000000000000
+      internalID: 7932648691285779297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pig_spotted/Eyelid 2
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 573
+        width: 59
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f82ea9db24d9114d0800000000000000
+      internalID: -3165576153090301297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pig_spotted/Foot 2
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 344
+        width: 103
+        height: 265
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71778f4ee6ff21710800000000000000
+      internalID: 1662672064206108439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pig_spotted/Hair
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 885
+        width: 69
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dea4316beb835680800000000000000
+      internalID: -8767510206495805738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pig_spotted/Hand 2
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 2
+        width: 120
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0993cfcefb968d00800000000000000
+      internalID: 974637888081991949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pig_spotted/Head
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 340
+        width: 196
+        height: 196
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 843562d528b88c690800000000000000
+      internalID: -7581656580653427896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pig_spotted/Mouse
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 610
+        width: 58
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c0a44fea593ac0c0800000000000000
+      internalID: -4554765010407743293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pig_spotted/Nose
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 2
+        width: 100
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 927dd43b9614a9b00800000000000000
+      internalID: 836052603066242857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pig_spotted/Pupil 2
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 958
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1bfb733d5c1df320800000000000000
+      internalID: 2593260147056573215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pig_spotted/Spine
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 684
+        width: 242
+        height: 333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e53367aede8ab7510800000000000000
+      internalID: 1548016636726227806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pig_spotted/Tail
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 2
+        width: 77
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6864ffccaca601350800000000000000
+      internalID: 5985401324030609030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pigs_Brown/Ear
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 878
+        width: 87
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0c27975d097666f0800000000000000
+      internalID: -691732394543731702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pigs_Brown/Ear 2
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 925
+        width: 111
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0c4b08a5629cbe50800000000000000
+      internalID: 6826492100495494156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pigs_Brown/Eyebrow
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 230
+        width: 36
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ca449f7a9bc5f210800000000000000
+      internalID: 1366221926402640576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pigs_Brown/Eyebrow 2
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 235
+        width: 41
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a00e5c4cf7a0f1870800000000000000
+      internalID: 8655648552707809290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pigs_Brown/Eyelid
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 767
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 943421eb5f16a6b80800000000000000
+      internalID: -8400794446822489271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pigs_Brown/Eyelid 2
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 618
+        width: 44
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76711fe4e22ec4b50800000000000000
+      internalID: 6578881844202248039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pigs_Brown/Foot 2
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 2
+        width: 105
+        height: 267
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20b6b70a3d6405880800000000000000
+      internalID: -8624315411670013182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pigs_Brown/Hair
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 885
+        width: 69
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 451b2d8c3212ea450800000000000000
+      internalID: 6101850982710423892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pigs_Brown/Hand 2
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 2
+        width: 121
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0505e90cf07dbb80800000000000000
+      internalID: -8377415504039181044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pigs_Brown/Head
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 678
+        width: 198
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c172331495ef7190800000000000000
+      internalID: -7962393192027754044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pigs_Brown/Mouse
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 617
+        width: 67
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3267e16111b300800800000000000000
+      internalID: 576525696875001379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pigs_Brown/Nose
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 653
+        width: 101
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5317827a703bc5d20800000000000000
+      internalID: 3268684275014725941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pigs_Brown/Pupil 2
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 958
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1ebf8dd05552ea10800000000000000
+      internalID: 1937204595525664287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pigs_Brown/Spine
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 684
+        width: 243
+        height: 335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 157315128dfc89320800000000000000
+      internalID: 2565028514966353745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pigs_Brown/Tail
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 115
+        width: 78
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 177e048829d80f470800000000000000
+      internalID: 8426390563300894577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effects/Splash 21_00003
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 541
+        width: 120
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c0a342010c4f1270800000000000000
+      internalID: 8223375011818479813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effects/Splash 21_00005
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 655
+        width: 89
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9910484c46eae190800000000000000
+      internalID: -7932274578355644004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effects/Splash 21_00006
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 260
+        width: 210
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bac4fd21176284270800000000000000
+      internalID: 8234874185736735915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effects/Splash 21_00007
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 618
+        width: 240
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f624d33720c794490800000000000000
+      internalID: -7761536132831165841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Pig_black/Head: 8530690306817783662
+      Pig_black/Eyelid 2: -981327306031949365
+      Pig_black/Layer 1: 7355959546411891624
+      Pig_pink/Eyelid: 3102745326784991496
+      Pig_black/Hair: 3463346696335315156
+      Pig_pink/Pupil 2: -736930773781883421
+      Pig_spotted/Eyelid: 7932648691285779297
+      Pig_pink/Eyebrow: -8654750837731003788
+      Pigs_Brown/Spine: 2565028514966353745
+      Pig_spotted/Head: -7581656580653427896
+      effects/Splash 21_00003: 8223375011818479813
+      Pig_spotted/Mouse: -4554765010407743293
+      Pigs_Brown/Pupil 2: 1937204595525664287
+      Pigs_Brown/Eyelid 2: 6578881844202248039
+      Pig_black/Eyebrow: 1555520550873463324
+      Pig_black/Mouse: -8406672051063483924
+      Pig_spotted/Ear: 2353963698113788425
+      Pig_pink/Foot 2: 4313202593813904512
+      Pigs_Brown/Hand 2: -8377415504039181044
+      Pig_spotted/Hand 2: 974637888081991949
+      Pig_black/Eyes: 469338640924332541
+      Pigs_Brown/Eyebrow: 1366221926402640576
+      Pigs_Brown/Eyebrow 2: 8655648552707809290
+      Pig_black/Nose: -7595030421615654709
+      Pig_pink/Ear: -813041511811303751
+      Pig_pink/Tail: 2583652894785426278
+      effects/Splash 21_00005: -7932274578355644004
+      Pig_black/Ear: -1543531280231536190
+      Pig_spotted/Eyelid 2: -3165576153090301297
+      Pig_black/Pupil 2: 1079550371146172344
+      Pig_spotted/Foot 2: 1662672064206108439
+      Pig_spotted/Eyebrow: 2497202485237410451
+      Pig_pink/Mouse: -5656273663083245884
+      Pigs_Brown/Head: -7962393192027754044
+      Pig_black/Tail: 1635649735520889853
+      Pigs_Brown/Eyelid: -8400794446822489271
+      Pig_black/Foot 2: -815899274651668375
+      Pigs_Brown/Ear: -691732394543731702
+      Pig_pink/Eyebrow 2: 3504467545035925224
+      Pig_pink/Ear 2: -6472851340530190546
+      Pig_spotted/Pupil 2: 2593260147056573215
+      Pig_black/Hand 2: 4793194513174310665
+      Pig_black/Eyebrow 2: 2995165228343305430
+      Pigs_Brown/Hair: 6101850982710423892
+      Pigs_Brown/Tail: 8426390563300894577
+      Pig_black/Eyelid: -8254915105343910531
+      Pig_pink/Head: -2426362186006352495
+      Pig_spotted/Spine: 1548016636726227806
+      Pig_spotted/Ear 2: 3092017389369464284
+      Pig_spotted/Hair: -8767510206495805738
+      Pig_pink/Nose: 4977120883641127949
+      Pigs_Brown/Mouse: 576525696875001379
+      Pig_pink/Hair: -3873846809792509133
+      Pig_spotted/Nose: 836052603066242857
+      Pig_spotted/Tail: 5985401324030609030
+      effects/Splash 21_00007: -7761536132831165841
+      Pig_pink/Spine: 9158395963138314196
+      Pigs_Brown/Ear 2: 6826492100495494156
+      Pig_pink/Hand 2: 8913904226520834703
+      effects/Splash 21_00006: 8234874185736735915
+      Pig_black/Ear 2: 2218434345185803223
+      Pig_pink/Eyelid 2: -1914906738987655717
+      Pigs_Brown/Nose: 3268684275014725941
+      Pigs_Brown/Foot 2: -8624315411670013182
+      Pig_spotted/Eyebrow 2: 6902690398483397971
+      Pig_black/Spine: -5081376002065337025
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
